@@ -55,24 +55,24 @@ html {
     box-shadow: 585px 1250px #FFF , 1428px 1590px #FFF , 484px 1724px #FFF , 231px 1978px #FFF , 1281px 1582px #FFF , 1837px 160px #FFF , 597px 446px #FFF , 1339px 878px #FFF , 524px 1858px #FFF , 268px 1630px #FFF , 402px 1784px #FFF , 955px 840px #FFF , 1568px 55px #FFF , 1116px 406px #FFF , 667px 1147px #FFF , 1676px 486px #FFF , 51px 1282px #FFF , 1817px 284px #FFF , 1193px 239px #FFF , 1187px 15px #FFF , 165px 1964px #FFF , 1637px 1918px #FFF , 1072px 820px #FFF , 220px 1704px #FFF , 795px 625px #FFF , 76px 552px #FFF , 1426px 1206px #FFF , 1495px 1872px #FFF , 280px 1898px #FFF , 185px 466px #FFF , 740px 794px #FFF , 1732px 1654px #FFF , 1834px 667px #FFF , 1343px 1084px #FFF , 1509px 331px #FFF , 66px 97px #FFF , 1974px 1319px #FFF , 1062px 1909px #FFF , 414px 434px #FFF , 698px 1727px #FFF , 178px 1253px #FFF , 1531px 1773px #FFF , 271px 799px #FFF , 1437px 1851px #FFF , 1032px 228px #FFF , 1059px 437px #FFF , 1168px 71px #FFF , 1750px 1802px #FFF , 802px 497px #FFF , 909px 1301px #FFF , 1212px 1704px #FFF , 1080px 1602px #FFF , 259px 321px #FFF , 1391px 900px #FFF , 1655px 1979px #FFF , 1611px 184px #FFF , 924px 419px #FFF , 1245px 1831px #FFF , 1720px 208px #FFF , 1566px 387px #FFF , 1035px 429px #FFF , 1566px 228px #FFF , 1512px 723px #FFF , 393px 435px #FFF , 1556px 1498px #FFF , 1809px 1247px #FFF , 811px 439px #FFF , 179px 1943px #FFF , 1910px 258px #FFF , 1788px 1074px #FFF , 694px 388px #FFF , 1685px 880px #FFF , 1275px 1835px #FFF , 1245px 837px #FFF , 1087px 1778px #FFF , 663px 739px #FFF , 532px 630px #FFF , 709px 1944px #FFF , 1499px 791px #FFF , 357px 1905px #FFF , 880px 863px #FFF , 1105px 667px #FFF , 1664px 552px #FFF , 409px 63px #FFF , 725px 1296px #FFF , 499px 1009px #FFF , 673px 1797px #FFF , 1759px 492px #FFF , 1017px 594px #FFF , 1270px 1108px #FFF , 1692px 1223px #FFF , 248px 1357px #FFF , 1348px 1263px #FFF , 328px 303px #FFF , 1321px 1514px #FFF , 830px 1589px #FFF , 377px 303px #FFF , 978px 456px #FFF , 1022px 871px #FFF , 1754px 1871px #FFF;
 }
 
-#title {
-    position: absolute;
-    left: 0;
-    right: 0;
-    color: #FFF;
-    text-align: center;
-    font-family: "lato", sans-serif;
-    font-weight: 300;
-    font-size: 50px;
-    letter-spacing: 10px;
-    margin-top: 260px;
-    padding-left: 10px;
-}
-#title span {
-    background: -webkit-linear-gradient(white, #38495a);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
+/*#title {*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    right: 0;*/
+/*    color: #FFF;*/
+/*    text-align: center;*/
+/*    font-family: "lato", sans-serif;*/
+/*    font-weight: 300;*/
+/*    font-size: 50px;*/
+/*    letter-spacing: 10px;*/
+/*    margin-top: 260px;*/
+/*    padding-left: 10px;*/
+/*}*/
+/*#title span {*/
+/*    background: -webkit-linear-gradient(white, #38495a);*/
+/*    -webkit-background-clip: text;*/
+/*    -webkit-text-fill-color: transparent;*/
+/*}*/
 
 @keyframes animStar {
     from {
